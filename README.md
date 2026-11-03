@@ -8,7 +8,7 @@ It is not just a chatbot. The goal is to build a private command center with lon
 
 ## Live Demo
 
-[Open Aether / Sentinel AI OS](https://sentinel-store-frontend.vercel.app/)
+[Open Aether](https://sentinel-store-frontend.vercel.app/)
 
 ![Aether dashboard](docs/assets/aether-dashboard.png)
 
