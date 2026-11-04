@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/banner.png" alt="Aether" width="100%">
+</p>
+
 # Aether
 
 **Personal AI Second Brain - OS with memory, tasks, web search, vision AI and multi-provider support.**
